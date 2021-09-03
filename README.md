@@ -7,6 +7,10 @@ The main objective of this project is to become more familiar with data analysis
 
 ## Result
 ### Ride-Sharing Summary by City Type
+The following dataframe that shows the summary of rides by each city types:
 
+![Summary](https://github.com/yaejinpark/pyber_analysis/blob/main/analysis/Pyber_summary.png)
+
+![Plot](https://github.com/yaejinpark/pyber_analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Summary
